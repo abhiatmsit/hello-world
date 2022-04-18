@@ -34,6 +34,7 @@
    <h1> Thankyou, Happy Learning </h1>
    <h1> By Abhishek Kumar </h1>
    <h1> Devops Enthusiast</h1>
+   <h1>Please drop email @abhiatmsit@gmail.com for any Queries</h1>
 
   
 </form>
