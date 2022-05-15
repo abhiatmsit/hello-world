@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Abhishek Kumar </h1>
+   <h1> By Abhishek Kumar </h1>
    <h1> Devops Enthusiast</h1>
    <h1> Please drop email to abhiatmsit@gmail.com for any Queries</h1>
    <h1> Please give feedback to us for further improvements .</h1>
