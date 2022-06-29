@@ -33,7 +33,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1> Abhishek Kumar </h1>
-   <h1> Devops Enthusiast</h1>
+   <h1> Devops Enthusit</h1>
 
   
 </form>
