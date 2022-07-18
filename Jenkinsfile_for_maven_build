@@ -6,7 +6,7 @@ pipeline {
   stages{
     stage("Maven_Build"){
       steps{
-        sh 'mvn clean package'
+        sh "mvn -Dmaven.failure.ignore=true clean package"
       }
     }
   }
